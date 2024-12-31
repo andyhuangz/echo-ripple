@@ -1,0 +1,8 @@
+input::placeholder {
+    color: grey;
+}
+
+.buttonBG {
+    background-color: rgb(94, 137, 255);
+    border-color: rgb(94, 137, 255);
+}
