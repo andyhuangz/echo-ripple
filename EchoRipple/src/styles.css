@@ -3,11 +3,11 @@
 }
 
 body {
-    height: 100vh;
+    min-height: 100vh;
 }
 
 main {
     background-color: rgba(17, 25, 40, 0.75);
     backdrop-filter: blur(16px) saturate(180%);
-    height: 100vh;
+    min-height: 100vh;
 }
